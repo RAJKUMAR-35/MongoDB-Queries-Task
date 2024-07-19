@@ -1,4 +1,4 @@
-# MongoDB-Query-Task
+# MongoDB-Task-1
 ## Overview
 
 A comprehensive set of MongoDB queries to manipulate and retrieve data from the products collection. This repository contains a set of MongoDB queries to perform various operations on the products collection based on the `product.json` data.
