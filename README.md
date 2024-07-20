@@ -5,7 +5,7 @@ A comprehensive set of MongoDB queries to manipulate and retrieve data from the 
 
 ![Preview Image](Images/demo.png)
 
-**Data**
+**JSON Data**
 ```bash
 https://github.com/rvsp/database/blob/master/mongodb/product.json
 ```
